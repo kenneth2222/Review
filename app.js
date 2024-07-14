@@ -5,28 +5,28 @@ const reviews = [
     name: 'susan smith',
     job: 'web developer',
     img: 'https://www.course-api.com/images/people/person-1.jpeg',
-    text: "I'm baby meggings twee health goth +1. Bicycle rights tumeric chartreuse before they sold out chambray pop-up. Shaman humblebrag pickled coloring book salvia hoodie, cold-pressed four dollar toast everyday carry",
+    text: "Susan Smith is a skilled web developer known for creating user-friendly, visually appealing websites. She excels in HTML, CSS, and JavaScript, enhancing online experiences.",
   },
   {
     id: 2,
     name: 'anna johnson',
     job: 'web designer',
     img: 'https://www.course-api.com/images/people/person-2.jpeg',
-    text: 'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+    text: 'Anna Johnson is a talented web designer known for her innovative designs and user-friendly interfaces, enhancing online experiences with creativity and technical expertise.',
   },
   {
     id: 3,
     name: 'peter jones',
     job: 'intern',
     img: 'https://www.course-api.com/images/people/person-4.jpeg',
-    text: 'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.',
+    text: 'Peter Jones is a diligent intern, eager to learn and contribute. His enthusiasm and dedication make him a valuable asset to any team.',
   },
   {
     id: 4,
     name: 'bill anderson',
     job: 'the boss',
     img: 'https://www.course-api.com/images/people/person-3.jpeg',
-    text: 'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ',
+    text: 'Bill Anderson is a visionary leader known for his strategic insight and commitment to innovation. He inspires teams with his passion for excellence and growth.',
   },
 ];
 // select items
